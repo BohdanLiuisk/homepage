@@ -1,7 +1,5 @@
 # Homepage
 
-🧙Hocus-pocus!
-
 ## Description
 It's a simple one-page site resume.
 
